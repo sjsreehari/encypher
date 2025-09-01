@@ -1,5 +1,11 @@
 # Encypher
 
+[![npm version](https://img.shields.io/npm/v/encypher)](https://www.npmjs.com/package/encypher)
+[![npm downloads](https://img.shields.io/npm/dt/encypher)](https://www.npmjs.com/package/encypher)
+[![License](https://img.shields.io/npm/l/encypher)](https://opensource.org/licenses/MIT)
+[![React](https://img.shields.io/badge/react-19%2B-blue)](https://reactjs.org/)
+
+
 A lightweight React hook for encrypted localStorage/sessionStorage with a useState-like API. Securely store sensitive data in the browser using AES-GCM (Web Crypto API), with an optional (insecure) XOR fallback for legacy environments.
 
 ---
