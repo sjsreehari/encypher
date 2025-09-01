@@ -123,16 +123,13 @@ const [data, setData] = useEncryptedStorage("key", {}, { secret, storage: custom
 
 ## License
 
-MIT
-
----
-
-## Contributing
-
-PRs and issues welcome!
+This project is licensed under the **MIT License**, which means you are free to use, modify, and distribute the code in both personal and commercial projects, as long as you include the original license and copyright notice.
 
 ---
 
 ## Author
 
-[Sreehari S J](mailto:sjsreehari@gmail.com)
+**Sreehari S J**  
+You can reach me at [sjsreehari@gmail.com](mailto:sjsreehari@gmail.com).  
+Check out the **live demo** of Encypher here: [Encypher Demo Website](https://encypher-demo-website.netlify.app/)
+
